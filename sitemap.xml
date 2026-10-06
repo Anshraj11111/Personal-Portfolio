@@ -53,4 +53,10 @@
     <priority>0.7</priority>
   </url>
   
+  <url>
+    <loc>https://anshraj-portfolio.vercel.app/anshraj-baghel-profile.json</loc>
+    <lastmod>2024-10-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>

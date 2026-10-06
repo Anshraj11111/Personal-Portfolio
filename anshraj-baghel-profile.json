@@ -1,0 +1,208 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Anshraj Baghel",
+  "alternateName": ["Ansh Raj Baghel", "Anshraj", "Ansh Baghel"],
+  "jobTitle": "Full Stack Developer & Robotics Expert",
+  "description": "Award-winning Full Stack Developer, Co-Founder of A5X Industries, Google Student Ambassador. Expert in React, Node.js, Python, AI/ML, IoT solutions. Trained 100+ students in robotics. Available for freelance and full-time opportunities.",
+  "url": "https://anshraj-portfolio.vercel.app/",
+  "image": "https://anshraj-portfolio.vercel.app/ansh-hero.png",
+  "birthPlace": "Jabalpur, Madhya Pradesh, India",
+  "nationality": "Indian",
+  "gender": "Male",
+  "birthDate": "2003",
+  "sameAs": [
+    "https://www.linkedin.com/in/ansh-raj-baghel-50324b296/",
+    "https://github.com/Anshraj11111",
+    "mailto:anshrajbaghel30@gmail.com",
+    "https://anshraj-portfolio.vercel.app/"
+  ],
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "telephone": "+91-8269858259",
+      "contactType": "customer service",
+      "areaServed": "IN",
+      "availableLanguage": ["English", "Hindi"]
+    },
+    {
+      "@type": "ContactPoint", 
+      "email": "anshrajbaghel30@gmail.com",
+      "contactType": "technical support",
+      "areaServed": "Global"
+    }
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Jabalpur",
+    "addressRegion": "Madhya Pradesh", 
+    "addressCountry": "India",
+    "postalCode": "482001"
+  },
+  "alumniOf": {
+    "@type": "CollegeOrUniversity",
+    "name": "Shri Ram Institute of Science & Technology",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Jabalpur",
+      "addressCountry": "India"
+    }
+  },
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "Full Stack Developer",
+    "occupationLocation": {
+      "@type": "City",
+      "name": "Jabalpur"
+    },
+    "skills": [
+      "React.js Development",
+      "Node.js Backend Development", 
+      "MongoDB Database Management",
+      "JavaScript Programming",
+      "Python Development",
+      "Robotics & IoT Solutions",
+      "AI & Machine Learning",
+      "Web Development",
+      "Mobile App Development",
+      "API Development",
+      "Database Design",
+      "Cloud Computing",
+      "Version Control (Git)",
+      "Agile Development"
+    ]
+  },
+  "worksFor": {
+    "@type": "Organization",
+    "name": "A5X Industries",
+    "description": "Robotics and AI solutions company",
+    "foundingDate": "2025",
+    "founders": {
+      "@type": "Person",
+      "name": "Anshraj Baghel"
+    }
+  },
+  "founder": {
+    "@type": "Organization", 
+    "name": "A5X Industries",
+    "description": "Co-founded robotics and AI training company specializing in IoT solutions and robotics education"
+  },
+  "knowsAbout": [
+    "Full Stack Development",
+    "React.js",
+    "Next.js",
+    "Node.js", 
+    "Express.js",
+    "MongoDB",
+    "PostgreSQL",
+    "JavaScript",
+    "TypeScript",
+    "Python",
+    "C++",
+    "HTML5",
+    "CSS3",
+    "Tailwind CSS",
+    "Bootstrap",
+    "REST APIs",
+    "GraphQL",
+    "Robotics",
+    "IoT (Internet of Things)",
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Computer Vision",
+    "Chatbot Development",
+    "Browser Extensions",
+    "Web Design",
+    "Database Management",
+    "Git Version Control",
+    "Agile Development",
+    "AWS Cloud Services",
+    "Docker",
+    "Microservices"
+  ],
+  "hasCredential": [
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "B.Tech Computer Science & Engineering",
+      "credentialCategory": "degree",
+      "educationalLevel": "UG", 
+      "recognizedBy": {
+        "@type": "CollegeOrUniversity",
+        "name": "Shri Ram Institute of Science & Technology"
+      }
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "Google Student Ambassador",
+      "credentialCategory": "certificate",
+      "recognizedBy": {
+        "@type": "Organization",
+        "name": "Google"
+      }
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "Web Development Intern", 
+      "credentialCategory": "certificate",
+      "recognizedBy": {
+        "@type": "Organization",
+        "name": "InternBoot"
+      }
+    }
+  ],
+  "award": [
+    "First Place - Technogenesis Robotics Competition",
+    "First Prize - Idea Spark Innovation Event",
+    "Award from Union Minister Prahlad Singh Patel for Techfest Website",
+    "Google Student Ambassador Recognition",
+    "CodeByte Hackathon Participant",
+    "IIT Kanpur TechKriti ML Hackathon Participant"
+  ],
+  "performerIn": [
+    {
+      "@type": "Event",
+      "name": "Aavhan Techfest 2024",
+      "description": "Built official techfest website recognized by Union Minister"
+    },
+    {
+      "@type": "Event",
+      "name": "Robotics Training Workshops", 
+      "description": "Trained 100+ students in robotics and AI technologies"
+    },
+    {
+      "@type": "Event",
+      "name": "Technogenesis Robotics Competition",
+      "description": "Won first place in prestigious robotics competition"
+    }
+  ],
+  "seeks": {
+    "@type": "Demand",
+    "name": "Full Stack Developer Opportunities"
+  },
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "Full Stack Web Development",
+        "description": "Complete web application development from frontend to backend using modern technologies"
+      }
+    },
+    {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "Robotics & IoT Development", 
+        "description": "IoT solutions, robotics programming, and automation systems"
+      }
+    },
+    {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "AI/ML Solutions",
+        "description": "Artificial Intelligence and Machine Learning application development"
+      }
+    }
+  ]
+}
