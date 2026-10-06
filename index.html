@@ -243,11 +243,46 @@ const q=Math.round(f);if(q!==last){btn.forEach((x,i)=>x.classList.toggle('on',i=
 R.render(sc,cam);requestAnimationFrame(loop)})(t0);
 })()}catch(err){console.warn('3D unavailable',err)}
 </script>
+
+<!-- Primary Website Schema - Portfolio as main entity -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "@id": "https://portfolio-nine-tau-69.vercel.app/#website",
+  "url": "https://portfolio-nine-tau-69.vercel.app/",
+  "name": "Anshraj Baghel - Full Stack Developer & Robotics Expert Portfolio",
+  "description": "Professional portfolio of Anshraj Baghel, Co-Founder & CTO of A5X Industries. Showcasing expertise in Full Stack Development, Robotics, AI, and IoT solutions.",
+  "inLanguage": "en-US",
+  "author": {
+    "@type": "Person",
+    "@id": "https://portfolio-nine-tau-69.vercel.app/#person",
+    "name": "Anshraj Baghel",
+    "url": "https://portfolio-nine-tau-69.vercel.app/"
+  },
+  "creator": {
+    "@id": "https://portfolio-nine-tau-69.vercel.app/#person"
+  },
+  "copyrightHolder": {
+    "@id": "https://portfolio-nine-tau-69.vercel.app/#person"
+  },
+  "copyrightYear": 2024,
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://portfolio-nine-tau-69.vercel.app/"
+    }
+  }
+}
+</script>
+
 <!-- Advanced Structured Data for Google Knowledge Panel -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Person",
+  "@id": "https://portfolio-nine-tau-69.vercel.app/#person",
   "name": "Anshraj Baghel",
   "alternateName": ["Ansh Raj Baghel", "Anshraj", "Ansh Baghel"],
   "jobTitle": ["Co-Founder & CTO of A5X Industries", "Full Stack Developer", "Robotics Expert", "AI Engineer"],
@@ -260,18 +295,21 @@ R.render(sc,cam);requestAnimationFrame(loop)})(t0);
   },
   "nationality": "Indian",
   "gender": "Male",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://portfolio-nine-tau-69.vercel.app/"
+  },
   "sameAs": [
+    "https://portfolio-nine-tau-69.vercel.app/",
     "https://www.linkedin.com/in/ansh-raj-baghel-50324b296/",
     "https://github.com/Anshraj11111",
     "mailto:anshrajbaghel30@gmail.com"
   ],
   "telephone": "+91-8269858259",
   "email": "anshrajbaghel30@gmail.com",
-  "address": {
-    "@type": "PostalAddress",
-    "addressLocality": "Jabalpur",
-    "addressRegion": "Madhya Pradesh",
-    "addressCountry": "India"
+  "workLocation": {
+    "@type": "VirtualLocation",
+    "description": "Remote Full Stack Developer & Robotics Expert based in India"
   },
   "alumniOf": {
     "@type": "CollegeOrUniversity",
