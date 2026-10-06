@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://anshraj-portfolio.vercel.app/sitemap.xml
+Sitemap: https://portfolio-nine-tau-69.vercel.app/sitemap.xml
 
 # Crawl-delay (optional)
 Crawl-delay: 1
